@@ -568,7 +568,7 @@ template {
     .main-menu li:hover a {
       opacity: 1; }
   .main-menu li a {
-    color: #fff;
+    color: #52F796;
     opacity: .85; }
   .main-menu li ul {
     background: rgba(13, 13, 13, 0.6); }
@@ -677,14 +677,14 @@ template {
     width: 60%;
     background: #f1f1f2; }
     .team__item__description__name {
-      color: #F3D328;
+      color: #A0C939;
       font-weight: 600;
       font-size: 1.15em; }
     .team__item__description__info {
       color: #53585E;
       font-size: .95em; }
     .team__item__description__mail {
-      color: #0D0D0D;
+      color: #2CB664;
       font-size: .85em;
       padding: 0;
       margin: 0; }
@@ -837,7 +837,7 @@ template {
       width: 50%; } }
   .think__details__icon {
     width: 20%;
-    background: #F3D328;
+    background: #30C859;
     margin-bottom: .5em;
     font-size: 3em;
     text-align: center;
