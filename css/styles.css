@@ -154,7 +154,7 @@ dfn {
  * Add the correct background and color in IE 9-.
  */
 mark {
-  background-color: #ff0;
+  background-color: #29ab45;
   color: #000; }
 
 /**
@@ -447,7 +447,7 @@ template {
   text-transform: capitalize; }
 
 #top {
-  background: #F3D328; }
+  background: #25C968; }
 
 .top__item {
   width: 100%;
@@ -650,7 +650,7 @@ template {
   #header:before {
     content: "";
     position: absolute;
-    background: rgba(243, 211, 40, 0.7);
+    background: rgba(35, 171, 97, 0.7);
     width: 50%;
     height: 100%;
     left: 0;
@@ -677,7 +677,7 @@ template {
     width: 60%;
     background: #f1f1f2; }
     .team__item__description__name {
-      color: #A0C939;
+      color: #39C970;
       font-weight: 600;
       font-size: 1.15em; }
     .team__item__description__info {
@@ -761,7 +761,7 @@ template {
       color: #53585E;
       text-transform: capitalize; }
       .design__title__text h1 span {
-        color: #F3D328; }
+        color: #30B966; }
   .design__title__content {
     width: 100%;
     color: #0D0D0D; }
@@ -775,7 +775,7 @@ template {
       width: 50%; } }
   .design__item__icon {
     width: 20%;
-    background: #F3D328;
+    background: #2BC864;
     margin-bottom: .3em;
     font-size: 3em;
     text-align: center;
@@ -798,7 +798,7 @@ template {
       display: block; }
       .design__item__info__title:hover {
         text-decoration: none;
-        color: #F3D328; }
+        color: #2BC565; }
     .design__item__info__details {
       font-size: .9em;
       color: #0D0D0D; }
@@ -940,7 +940,7 @@ template {
       color: #53585E;
       text-transform: capitalize; }
       .projectsFinal__title__text h1 span {
-        color: #F3D328; }
+        color: #21B04C; }
   .projectsFinal__title__content {
     width: 100%;
     color: #0D0D0D; }
@@ -955,7 +955,7 @@ template {
       margin-right: auto; } }
   .projectsFinal__week__icon {
     width: 25%;
-    background: #F3D328;
+    background: #19B249;
     border-radius: 50%;
     color: #fff;
     font-size: 2.5em;
@@ -989,4 +989,4 @@ template {
       display: block; }
       .projectsFinal__week__details__week:hover {
         text-decoration: none;
-        color: #c4a60b; }
+        color: #1AC34B; }
